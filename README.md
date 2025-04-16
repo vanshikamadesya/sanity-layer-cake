@@ -12,3 +12,5 @@ npm run dev
 
 - Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
 - Open [http://localhost:3001/studio](http://localhost:3001/studio) to edit content.
+
+- Open (https://sanity-layer-cake-peach.vercel.app/) 
